@@ -1,0 +1,9 @@
+# CTF Writeups
+Here are some of my solutions for Capture The Flag challenges.
+
+## Web Exploitation
+- SQL Injection basic login bypass: ' OR '1'='1
+- XSS payloads: <script>alert(1)</script>
+
+## Cryptography
+- Caesar Cipher decryption script in Python
